@@ -23,7 +23,7 @@ This guide walks you through installing **YARA** on Windows, adding it to your e
 3. Extract the zip anywhere, e.g.,  
 ```
 
-C:\Tools\YARA
+C:\yara
 
 ```
 
