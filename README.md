@@ -53,7 +53,7 @@ yara64.exe -v
 It should show something like:
 
 ```
-YARA 4.5.4
+4.5.4
 ```
 
 ---
