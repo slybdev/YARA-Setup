@@ -47,7 +47,7 @@ C:\Tools\YARA
 
  Now open **Command Prompt** and run:
 ```bash
-yara -v
+yara64.exe -v
 ````
 
 It should show something like:
